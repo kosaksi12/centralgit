@@ -1,0 +1,9 @@
+Hello,
+
+<<<<<<< HEAD
+
+=======
+frddrcrf
+>>>>>>> dinesh
+How are you
+
